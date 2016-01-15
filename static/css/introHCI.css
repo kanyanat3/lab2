@@ -32,3 +32,29 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+
+p {
+     font-variant: small-caps;
+}
+
+.project p{
+     font-variant: small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+}
+
+.project {
+     margin-left: 10px;
+     background-color: #8DC3FF;
+     padding: 20px;
+     width: 520px;
+}
+
+.navBar {
+     color: #68A2FF;
+     font-size: 12px;
+
+}
